@@ -27,7 +27,9 @@ https://composer.studio
 
 **Open Source Sites**
 
-![Linkpreview Logo](https://linkpreview.dev/assets/images/favicon.ac8e61eea45af5c9139f220d43565596.ico) Linkpreview: https://linkpreview.dev
+![Linkpreview Logo](https://linkpreview.dev/assets/images/favicon.ac8e61eea45af5c9139f220d43565596.ico) Linkpreview: Open Graph, Twitter Card, Oembed preview
+
+https://linkpreview.dev
 
 
 
