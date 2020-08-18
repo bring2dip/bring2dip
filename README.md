@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World
+
+[![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=bring2dip&count_private=true&show_icons=true)](https://github.com/bring2dip)
 
 <!--
 **bring2dip/bring2dip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
