@@ -14,9 +14,6 @@ Stackoverflow: https://stackoverflow.com/users/2614005/bring2dip
 
 ## Built
 
-**Co-founded**
-
-
 ![Namchey Logo](https://assets.namchey.group/production/assets/images/favicon.3d5a43536612c44b4bc39eda2f2f59a4.ico) Namchey: Namchey allows budget travelers (solo travelers, backpackers, and students) to find local travel experiences and help minimize their expenses.
 
 https://namchey.com
@@ -31,7 +28,7 @@ https://composer.studio
 
 https://linkpreview.dev
 
-
+Stocks Table: [Finhub Stocks Report](https://bring2dip.github.io/stocks/)
 
 <!--
 **bring2dip/bring2dip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
