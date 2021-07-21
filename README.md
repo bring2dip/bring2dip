@@ -1,6 +1,6 @@
 ## Deepak Bhattarai @bring2dip
 
-Hi, I'm Deepak currently a software developer from Kathmandu, Nepal. I like working mostly on frontend. Currently I'm into functional programming world.
+Hi, I'm Deepak currently a software developer from Kathmandu, Nepal. I like working on NodeJS and React. Currently I'm into functional programming world. I also do some seasonal C programming.
 
 I enjoy Mountain Biking, Traveling to new places, Swimming, playing Piano.
 
