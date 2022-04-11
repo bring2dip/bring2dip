@@ -1,6 +1,6 @@
 ## Deepak Bhattarai @bring2dip
 
-Hi, I'm a software developer based in Helsinki, Finland. I like working on NodeJS and React. Currently I'm into functional programming world. I also do some seasonal C programming.
+Hi, I'm a software developer based in Espoo, Finland. I like working on NodeJS and React. Currently I'm into functional programming world. I also do some seasonal C programming.
 
 I enjoy Mountain Biking, Traveling to new places, Swimming, playing Piano.
 
