@@ -1,6 +1,6 @@
 ## Deepak Bhattarai @bring2dip
 
-Hi, I'm Deepak currently a software developer from Kathmandu, Nepal. I like working on NodeJS and React. Currently I'm into functional programming world. I also do some seasonal C programming.
+Hi, I'm a software developer based in Helsinki, Finland. I like working on NodeJS and React. Currently I'm into functional programming world. I also do some seasonal C programming.
 
 I enjoy Mountain Biking, Traveling to new places, Swimming, playing Piano.
 
@@ -13,10 +13,6 @@ Twitter: https://twitter.com/bring2dip
 Stackoverflow: https://stackoverflow.com/users/2614005/bring2dip
 
 ## Built
-
-![Namchey Logo](https://assets.namchey.group/production/assets/images/favicon.3d5a43536612c44b4bc39eda2f2f59a4.ico) Namchey: Namchey allows budget travelers (solo travelers, backpackers, and students) to find local travel experiences and help minimize their expenses.
-
-https://namchey.com
 
 ![Composer Studio Logo](https://composer-studio-test.s3.eu-central-1.amazonaws.com/favicon.ico) Composer Studio: A tool for composers where they can compose musical phrases online and share it with others.
 
