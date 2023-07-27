@@ -14,15 +14,11 @@ Stackoverflow: https://stackoverflow.com/users/2614005/bring2dip
 
 ## Built
 
-![Composer Studio Logo](https://composer-studio-test.s3.eu-central-1.amazonaws.com/favicon.ico) Composer Studio: A tool for composers where they can compose musical phrases online and share it with others.
+![Musical Circle](https://circle.composer.studio/favicon.ico) Musical Circle: Interactive and playable circle of fifths app
 
-https://composer.studio
+https://circle.composer.studio
 
 **Open Source Sites**
-
-![Linkpreview Logo](https://linkpreview.dev/assets/images/favicon.ac8e61eea45af5c9139f220d43565596.ico) Linkpreview: Open Graph, Twitter Card, Oembed preview
-
-https://linkpreview.dev
 
 Stocks Table: [Finhub Stocks Report](https://bring2dip.github.io/stocks/)
 
